@@ -1,17 +1,9 @@
 # Data-Analysis
   Análise exploratória de dados educacionais, com foco na avaliação de desempenho de alunos com base em notas, frequência e sexo. Projeto desenvolvido em Python com uso da biblioteca Pandas.
 
-# Estrutura do Repositório:
-  Data-Analysis/
-  │
-  ├── datasets/
-  │   └── base_padronizada.csv   # Arquivo CSV com os dados limpos e padronizados
-  │
-  ├── analise_dados.py           # Script com todas as etapas da análise utilizando Pandas
-  ├── analise_final.pdf          # Relatório final em PDF com gráficos e insights
-  └── resumo_etapas_analise.pdf  # Documento explicando o passo a passo do processo analítico
-
----
+# Conteúdo do Repositório:
+  Na pasta datasets você encontra o arquivo CSV com os dados já limpos e padronizados para a análise
+  E na pasta principal você pode encontrar o script analise_dados.py e a Análise em PDF
 
 # Etapas da Análise
 
@@ -28,8 +20,6 @@
 
 4. **Ranking de Assiduidade**
    - Listagem dos 5 alunos com maior frequência registrada.
-
----
 
 #  Tecnologias Utilizadas
 
