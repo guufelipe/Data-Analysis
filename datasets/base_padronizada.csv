@@ -1,0 +1,101 @@
+id_aluno;nome;idade;serie;sexo;nota_matematica;nota_portugues;frequencia;media;aprovado
+1;Pedro Lucas Vieira;11;6º Ano;Masculino;4,1;3,8;63,7;4,756666666666667;Não
+2;Emanuelly Moreira;10;4º Ano;Feminino;8,4;7,8;64,6;7,553333333333332;Sim
+3;Murilo Nogueira;13;9º Ano;Masculino;8,1;6,5;68,4;7,146666666666667;Sim
+4;Helena Oliveira;14;9º Ano;Feminino;3,7;3,4;65,4;4,546666666666667;Não
+5;Alice Ribeiro;15;9º Ano;Feminino;2,7;8,7;89,8;6,793333333333333;Não
+6;Lucas Campos;12;7º Ano;Masculino;8,9;4,1;76,7;6,890000000000001;Não
+7;Pedro Cavalcanti;10;6º Ano;Masculino;7,4;6,6;67,8;6,926666666666667;Não
+8;Bianca Pires;9;4º Ano;Feminino;0,2;9,3;61,9;5,2299999999999995;Não
+9;Anthony da Mota;10;5º Ano;Masculino;3,6;8,3;64,4;6,113333333333333;Não
+10;Nicole Gomes;13;8º Ano;Feminino;5,7;3,6;83,3;5,876666666666668;Não
+11;Kevin Moraes;8;3º Ano;Masculino;2,9;0,3;91,1;4,103333333333333;Não
+12;Lavínia Costa;8;4º Ano;Feminino;5,0;8,1;64,1;6,503333333333333;Não
+13;Lucca Nascimento;6;1º Ano;Masculino;0,9;7,4;81,7;5,489999999999999;Não
+14;Luiz Gustavo Carvalho;7;2º Ano;Masculino;6,8;6,5;62,5;6,516666666666667;Não
+15;Miguel Teixeira;10;4º Ano;Masculino;7,7;8,6;93,4;8,546666666666667;Sim
+16;Pietro Azevedo;11;6º Ano;Masculino;0,8;6,8;84,0;5,333333333333333;Não
+17;Larissa Araújo;14;8º Ano;Feminino;3,1;8,0;94,8;6,859999999999999;Não
+18;Laura Correia;13;9º Ano;Feminino;2,1;3,5;62,3;3,943333333333333;Não
+19;Mariana Barbosa;5;1º Ano;Feminino;9,0;8,5;82,9;8,596666666666666;Sim
+20;Diego Moura;6;2º Ano;Masculino;6,8;1,6;77,9;5,396666666666667;Não
+21;Guilherme Ramos;9;5º Ano;Masculino;2,8;0,9;91,9;4,296666666666667;Não
+22;Ana Nogueira;9;3º Ano;Feminino;8,2;7,8;83,5;8,116666666666667;Sim
+23;Lorena Azevedo;10;5º Ano;Feminino;3,4;1,7;81,8;4,426666666666667;Não
+24;Vitor Hugo Souza;12;8º Ano;Masculino;2,9;1,8;84,0;4,366666666666667;Não
+25;Alícia Pereira;11;6º Ano;Feminino;0,2;7,2;68,0;4,733333333333333;Não
+26;Noah Nogueira;9;3º Ano;Masculino;0,6;5,0;80,5;4,55;Não
+27;Luigi Silva;12;6º Ano;Masculino;0,8;8,3;95,2;6,206666666666667;Não
+28;André Duarte;9;3º Ano;Masculino;2,2;2,9;69,0;4,0;Não
+29;Augusto Dias;6;2º Ano;Masculino;8,2;3,3;66,7;6,0566666666666675;Não
+30;Stella Correia;8;3º Ano;Feminino;4,3;4,0;90,2;5,773333333333333;Não
+31;Caroline Barbosa;14;9º Ano;Feminino;4,1;5,8;76,5;5,849999999999999;Não
+32;Milena da Rosa;11;6º Ano;Feminino;3,5;1,2;96,5;4,783333333333334;Não
+33;Carolina da Mata;13;7º Ano;Feminino;5,2;0,9;75,9;4,5633333333333335;Não
+34;Renan Novaes;10;6º Ano;Masculino;5,1;1,3;99,1;5,4366666666666665;Não
+35;Pedro Miguel Azevedo;9;3º Ano;Masculino;9,6;0,1;66,4;5,446666666666666;Não
+36;Stella Peixoto;11;5º Ano;Feminino;1,0;0,7;62,4;2,646666666666667;Não
+37;Rafael Pereira;14;9º Ano;Masculino;7,4;7,1;61,5;6,883333333333333;Não
+38;João Pedro Rodrigues;11;5º Ano;Masculino;9,6;0,4;85,7;6,19;Não
+39;Yago Freitas;9;4º Ano;Masculino;9,6;7,3;73,7;8,09;Sim
+40;Nathan Farias;8;4º Ano;Masculino;2,7;9,7;67,5;6,383333333333333;Não
+41;Fernando Pinto;8;3º Ano;Masculino;9,5;6,5;93,3;8,443333333333333;Sim
+42;Sofia Gomes;5;1º Ano;Feminino;8,5;5,2;86,9;7,463333333333334;Sim
+43;Emanuel Silveira;9;4º Ano;Masculino;0,0;3,9;62,9;3,3966666666666665;Não
+44;Nina Moreira;10;4º Ano;Feminino;6,9;2,3;66,0;5,266666666666667;Não
+45;Emanuelly Viana;14;8º Ano;Feminino;4,5;6,9;61,1;5,836666666666667;Não
+46;Helena Almeida;7;3º Ano;Feminino;7,6;4,8;60,8;6,159999999999999;Não
+47;Vitória Martins;10;6º Ano;Feminino;5,5;2,5;65,0;4,833333333333333;Não
+48;Henrique Santos;13;9º Ano;Masculino;7,1;2,4;77,4;5,746666666666667;Não
+49;Caio Costela;13;8º Ano;Masculino;6,2;4,9;71,1;6,07;Não
+50;Rodrigo Caldeira;7;2º Ano;Masculino;2,5;3,3;89,0;4,8999999999999995;Não
+51;Marcos Vinicius Lopes;6;2º Ano;Masculino;9,9;5,1;78,4;7,613333333333333;Sim
+52;Enzo Aragão;8;2º Ano;Masculino;3,6;4,8;97,2;6,04;Não
+53;Leandro Peixoto;7;2º Ano;Masculino;4,9;5,9;94,8;6,760000000000001;Não
+54;Isabelly Novaes;11;6º Ano;Feminino;8,1;7,0;69,4;7,346666666666667;Sim
+55;Gustavo Ribeiro;12;7º Ano;Masculino;7,7;0,2;87,8;5,56;Não
+56;João Lopes;10;6º Ano;Masculino;7,4;5,1;63,3;6,276666666666666;Não
+57;Maria Sophia Cardoso;7;3º Ano;Feminino;2,7;1,3;86,2;4,206666666666667;Não
+58;Natália Teixeira;13;9º Ano;Feminino;3,2;3,1;74,3;4,576666666666667;Não
+59;Lívia Alves;7;3º Ano;Feminino;1,7;1,2;78,9;3,596666666666667;Não
+60;Alana da Rosa;6;2º Ano;Feminino;5,8;5,7;74,2;6,3066666666666675;Não
+61;Alice Ferreira;9;3º Ano;Feminino;6,1;3,7;72,4;5,68;Não
+62;Evelyn Pinto;7;1º Ano;Feminino;2,2;1,0;64,4;3,2133333333333334;Não
+63;Renan Nogueira;13;9º Ano;Masculino;10,0;5,1;93,9;8,163333333333334;Sim
+64;Maria Cecília Peixoto;12;7º Ano;Feminino;5,3;8,9;80,6;7,419999999999999;Sim
+65;Maysa Aragão;12;8º Ano;Feminino;1,6;0,5;88,8;3,6599999999999997;Não
+66;Laís Farias;15;9º Ano;Feminino;4,6;2,5;98,5;5,6499999999999995;Não
+67;Manuela da Cruz;9;3º Ano;Feminino;4,2;4,0;60,3;4,743333333333333;Não
+68;Daniela Costela;11;6º Ano;Feminino;4,7;6,4;79,7;6,3566666666666665;Não
+69;Kamilly Freitas;12;6º Ano;Feminino;0,1;3,6;71,5;3,616666666666667;Não
+70;Ana Vitória Almeida;10;6º Ano;Feminino;9,0;1,1;85,1;6,203333333333333;Não
+71;Pietro Almeida;12;7º Ano;Masculino;6,3;9,0;91,2;8,14;Sim
+72;Júlia Cardoso;10;6º Ano;Feminino;8,2;6,2;68,6;7,086666666666666;Sim
+73;Marcela das Neves;13;9º Ano;Feminino;9,7;0,7;77,9;6,063333333333333;Não
+74;João Miguel Moura;7;2º Ano;Masculino;2,3;9,1;85,3;6,6433333333333335;Não
+75;Maria Luiza Silva;10;6º Ano;Feminino;5,6;8,1;98,8;7,859999999999999;Sim
+76;Mirella Viana;11;5º Ano;Feminino;6,2;9,0;87,4;7,9799999999999995;Sim
+77;Ana Carolina Farias;6;2º Ano;Feminino;1,8;8,6;97,9;6,73;Não
+78;Isabelly Nogueira;8;3º Ano;Feminino;6,0;3,9;73,6;5,753333333333333;Não
+79;Emilly Pereira;10;5º Ano;Feminino;1,9;1,8;68,4;3,5133333333333336;Não
+80;Juliana Lima;14;9º Ano;Feminino;0,5;6,7;82,5;5,1499999999999995;Não
+81;Maria Luiza Souza;9;5º Ano;Feminino;4,1;4,4;77,4;5,413333333333334;Não
+82;Mirella Viana;11;6º Ano;Feminino;5,3;8,0;90,9;7,463333333333334;Sim
+83;Heloísa Mendes;14;9º Ano;Feminino;2,6;5,5;62,2;4,773333333333333;Não
+84;Levi Azevedo;7;3º Ano;Masculino;4,5;8,3;68,6;6,553333333333334;Não
+85;Leonardo Nunes;15;9º Ano;Masculino;1,3;5,6;94,2;5,44;Não
+86;Felipe Teixeira;12;8º Ano;Masculino;3,5;1,1;61,4;3,5799999999999996;Não
+87;Daniela Aragão;10;5º Ano;Feminino;0,5;8,3;84,1;5,736666666666667;Não
+88;Vinicius Fogaça;8;3º Ano;Masculino;3,9;2,9;82,4;5,013333333333333;Não
+89;Daniela Rezende;6;2º Ano;Feminino;5,6;3,1;90,0;5,8999999999999995;Não
+90;Luiz Fernando da Luz;15;9º Ano;Masculino;0,9;0,0;81,5;3,016666666666667;Não
+91;Davi Luiz Vieira;13;8º Ano;Masculino;8,9;3,0;82,7;6,723333333333334;Não
+92;Samuel Campos;9;4º Ano;Masculino;7,3;4,9;72,5;6,483333333333333;Não
+93;Agatha Campos;12;7º Ano;Feminino;8,2;0,3;89,1;5,803333333333334;Não
+94;Bernardo Peixoto;7;3º Ano;Masculino;9,7;1,9;75,8;6,3933333333333335;Não
+95;Pedro Lucas da Mata;14;9º Ano;Masculino;7,1;1,2;86,5;5,6499999999999995;Não
+96;Julia das Neves;15;9º Ano;Feminino;2,9;5,3;78,1;5,336666666666666;Não
+97;João Ramos;6;1º Ano;Masculino;9,9;7,1;71,8;8,06;Sim
+98;Clarice da Mota;8;3º Ano;Feminino;3,2;3,5;99,4;5,546666666666667;Não
+99;Lucas Gabriel da Luz;11;5º Ano;Masculino;4,5;1,2;63,6;4,0200000000000005;Não
+100;Ana Sophia Nunes;8;3º Ano;Feminino;2,2;5,0;60,7;4,423333333333333;Não

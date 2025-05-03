@@ -3,7 +3,7 @@
 
 # Conteúdo do Repositório:
   Na pasta datasets você encontra o arquivo CSV com os dados já limpos e padronizados para a análise
-  E na pasta principal você pode encontrar o script analise_dados.py e a Análise em PDF
+  E na pasta principal você pode encontrar o script analise_dados.py e a Análise em PDF e o arquivo do README.md
 
 # Etapas da Análise
 
